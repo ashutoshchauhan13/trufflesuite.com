@@ -59,9 +59,8 @@ You can change some features of the generated blockchain through the **Settings*
 *Ganache Settings*
 
 
-* The **Server** page shows details about the network connection, including hostname, port, network ID, and whether to automatically mine each transaction into a block.
-* The **Accounts & Keys** page sets details about the number of accounts created, and whether to use a specific mnemonic or let Ganache generate its own.
-* The **Chain** page sets details about the actual workings of the generated blockchain, including gas limit and gas price.
+* The **Server** page shows the details about the network connection, including hostname, port, network ID, an option to enable auto mining with each transaction being part of an individual block.
+* The **Accounts & Keys** page can be used to configure the total number of accounts you wish to create, and option to use a specific mnemonic or let Ganache generate its own.
+* The **Chain** page lets you define the actual workings of the generated blockchain - including gas limit and gas price.
 * The **Advanced** page toggles Google Analytics, which is useful for the Ganache team to track usage of the application.
-
-After making changes, you will have to click **Restart** on the application for the changes to take effect.
+After making changes, you will have to click Restart on the application for the changes to take effect.
